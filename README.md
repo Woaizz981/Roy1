@@ -12,9 +12,7 @@
 print('hello world')
 ```
 
-``` python
 'print('hello world')'
-```
 
 # 我的信息素养实践课的理解
 
